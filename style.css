@@ -1,0 +1,23 @@
+     <style>
+
+     p#important {
+        color:red;
+        background: yellow;
+     }
+
+     .original {
+        font-size: 20px;
+
+     }
+
+     .new {
+        text-decoration: underline;
+
+     }
+
+     #box {
+        padding: 50px;
+        border: 10px red solid;
+        margin: 50px;
+     }
+     </style>
